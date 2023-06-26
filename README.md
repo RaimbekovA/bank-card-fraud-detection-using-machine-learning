@@ -6,3 +6,4 @@ Our project contains the code and resources needed to create and train a credit 
 
 The project uses a free set of data from free access, which includes a collection of credit card transactions, both legitimate and fraudulent. The data set serves as the basis for training and evaluating the fraud detection model.
 	We took the data set from the website kaggle.com. This site is an online resource and community for data science, machine learning and data research specialists.
+![image](https://github.com/RaimbekovA/credit_card_fraud_detection_using_machine_learning/assets/63358961/88268d33-5dff-4136-945b-347c97159900)
