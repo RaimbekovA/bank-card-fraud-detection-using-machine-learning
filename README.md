@@ -1,6 +1,6 @@
 # Credit card fraud detection using machine learning
 
-Preview
+## Preview
 
 ![image](https://github.com/RaimbekovA/credit_card_fraud_detection_using_machine_learning/assets/63358961/88268d33-5dff-4136-945b-347c97159900)
 
@@ -16,3 +16,12 @@ Preview
 
 
 ## Technologies used
+Python v3+
+Machine learning libraries
+Streamlit
+
+
+## How to run
+1. Import all libraries
+2. Import streamlit using "import streamlit as st"
+3. "streamlit run main.py" in terminal
