@@ -1,5 +1,15 @@
 # Credit card fraud detection using machine learning
 
+## A web application for analyzing bank transactions and detecting fraud.
+
+## Main functions:
+- data set preparation,
+- use of machine learning algorithms,
+- report with graphs, tables and transaction analysis
+
+## Additionally:
+- comparison of the operation and accuracy of the three algorithms.
+
 ## Preview
 
 ![image](https://github.com/RaimbekovA/credit_card_fraud_detection_using_machine_learning/assets/63358961/88268d33-5dff-4136-945b-347c97159900)
