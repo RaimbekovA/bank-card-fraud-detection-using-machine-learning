@@ -28,6 +28,10 @@
 2. Pandas, numpy, matplotlib, seaborn, sklearn
 3. Streamlit
 
+## Dataset
+The project uses a free set of data from free access, which includes a collection of credit card transactions, both legitimate and fraudulent. The data set serves as the basis for training and evaluating the fraud detection model. 
+We took the data set from the website kaggle.com. This site is an online resource and community for data science, machine learning and data research specialists.
+
 
 ## How to run
 1. Download project
@@ -51,10 +55,4 @@ You have 3 csv files. The creditcard.csv file contains all transactions. In the 
 ## Additionally
 This is my first serious project and the code is not optimized a bit. When you click on the checkboxes, the code runs a little bit long. I advise you to click all the checkboxes and wait a bit.
 Good luck with optimization!
-
-
-## Dataset
-The project uses a free set of data from free access, which includes a collection of credit card transactions, both legitimate and fraudulent. The data set serves as the basis for training and evaluating the fraud detection model. 
-We took the data set from the website kaggle.com. This site is an online resource and community for data science, machine learning and data research specialists.
-
 ## Thank you for your star!
