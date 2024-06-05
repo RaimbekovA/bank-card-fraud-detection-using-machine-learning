@@ -1,4 +1,4 @@
-# Credit card fraud detection using machine learning
+# Bank card fraud detection using machine learning
 
 ## A web application for analyzing bank transactions and detecting fraud.
 
