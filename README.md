@@ -56,4 +56,4 @@ You have 3 csv files. The creditcard.csv file contains all transactions. In the 
 ## Additionally
 This is my first serious project and the code is not optimized a bit. When you click on the checkboxes, the code runs a little bit long. I advise you to click all the checkboxes and wait a bit.
 Good luck with optimization!
-## Thank you for your star!
+## :star: Thank you for your star! :star:
