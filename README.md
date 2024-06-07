@@ -37,13 +37,16 @@ We took the data set from the website kaggle.com. This site is an online resourc
 ## How to run
 1. Download project
 2. Open in code editor
-3. Install or update pandas, numpy, matplotlib, seaborn, sklearn via terminal.
-   I use pip. Example: "pip install -U scikit-learn". See the current commands on the Internet for the query "how to install pandas/numpy/...". 
-5. Install streamlit: "pip install streamlit" in terminal
-6. Run project: "streamlit run main.py" in terminal
+3. Install or update pandas, numpy, matplotlib, seaborn, sklearn via terminal.  
+   I use pip. Example: `pip install -U scikit-learn`.  
+   See the current commands on the Internet for the query "how to install pandas/numpy/...". 
+5. Install streamlit: `pip install streamlit` in terminal
+6. Run project: `streamlit run main.py` in terminal
 7. Productive work! :)
 
-If you have any questions, you can write to me in telegram: @rmbkv_a
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="20" height="20"/> If you have any questions, you can write to me in telegram: @rmbkv_a 
+
+
 
 ## How to use "manual transaction verification"?
 You have 3 csv files. The creditcard.csv file contains all transactions. In the other two files, transactions are divided into fraudulent and legal ones.
