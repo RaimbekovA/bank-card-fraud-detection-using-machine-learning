@@ -38,11 +38,21 @@ We took the data set from the website kaggle.com. This site is an online resourc
 1. Download project
 2. Open in code editor
 3. Install or update pandas, numpy, matplotlib, seaborn, sklearn via terminal.  
-   I use pip. Example: `pip install -U scikit-learn`.  
+
+   I use pip. Example:
+   ```
+   pip install -U scikit-learn
+   ```  
    See the current commands on the Internet for the query "how to install pandas/numpy/...". 
-5. Install streamlit: `pip install streamlit` in terminal
-6. Run project: `streamlit run main.py` in terminal
-7. Productive work! :)
+5. Install streamlit:
+   ```
+   pip install streamlit
+   ```
+7. Run project:
+   ```
+   streamlit run main.py
+   ```
+9. Productive work! :)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="20" height="20"/> If you have any questions, you can write to me in telegram: @rmbkv_a 
 
